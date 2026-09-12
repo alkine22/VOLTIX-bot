@@ -25,7 +25,7 @@ from aiogram.enums import ParseMode
 # НАСТРОЙКИ
 # =========================================================
 
-BOT_TOKEN = "ВСТАВЬ_СЮДА_НОВЫЙ_ТОКЕН"
+BOT_TOKEN = "8952658715:AAGB2u4UVMBBhErZD6_dqium6JKFQmO5ZiA"
 
 ADMIN_IDS = [
     8617256826,
